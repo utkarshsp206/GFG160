@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*~
+
+# Ignore compiled class files
+*.class
